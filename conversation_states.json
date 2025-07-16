@@ -1,0 +1,40 @@
+{
+  "conversation_state": {
+    "user_1751085383801_2lfzeuevg": "INITIAL",
+    "user_1751088235864_7h1871f9b": "INITIAL",
+    "user_1751092698960_xe8icwre2": "INITIAL"
+  },
+  "user_data": {
+    "user_1751085383801_2lfzeuevg": {
+      "last_activity": "2025-06-28T08:23:39.141144",
+      "check_in": "2025-07-15",
+      "check_out": "2025-07-20",
+      "available_rooms": [
+        {
+          "room_type": "standard",
+          "price_per_night": 100,
+          "max_occupancy": 2
+        },
+        {
+          "room_type": "deluxe",
+          "price_per_night": 150,
+          "max_occupancy": 3
+        },
+        {
+          "room_type": "suite",
+          "price_per_night": 250,
+          "max_occupancy": 4
+        }
+      ],
+      "room_type": "suite",
+      "price_per_night": 250
+    },
+    "user_1751088235864_7h1871f9b": {
+      "last_activity": "2025-06-28T09:31:20.548972"
+    },
+    "user_1751092698960_xe8icwre2": {
+      "last_activity": "2025-06-28T11:18:49.343948"
+    }
+  },
+  "last_updated": "2025-06-28T11:18:49.343971"
+}
